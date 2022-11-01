@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aniruddh-Verma
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning DSA 
-- 💞️ trainee in DATA SCIENCE 
+- 📈 trainee in DATA SCIENCE 
 
 <!---
 Aniruddh-Verma/Aniruddh-Verma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
