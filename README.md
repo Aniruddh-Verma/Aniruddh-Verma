@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/WtDLxQWQWLtw3oIXTy/giphy.gif" width="200",height="100"/>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=22&duration=4000&pause=1000&color=DFF723&center=true&vCenter=true&width=1050&lines=Hi!+i'm+Anirudh+Verma)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1000&size=22&duration=4000&pause=1000&color=DFF723&center=true&vCenter=true&width=1050&lines=Hi!+I'm+Anirudh+Verma)](https://git.io/typing-svg)
 
 
 <div id="badges" align="center">
