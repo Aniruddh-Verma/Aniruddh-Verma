@@ -13,7 +13,7 @@
   <a href="https://leetcode.com/aniruddhverma16/">
     <img src="https://img.shields.io/badge/Leetcode-yellow?style=for-the-badge&logo=Leetcode&logoColor=black" alt="Leetcode Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/aniruddhverma16">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -21,11 +21,40 @@
   <img src="https://komarev.com/ghpvc/?username=Aniruddh-Verma&style=flat-square&color=blue" alt=""/>
 </div>
 
-<div id="text" align="center">
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-  # **INTRODUCTION**
-   👀 I’m interested in learning
-   🌱 I’m currently learning DSA 
-   📈 training in DATA SCIENCE 
+
+<div id="text" align="center"> 
+  
+  # **INTRODUCTION** 👨‍💻 
+
+</div>
+
+   - 👀 I’m interested in learning
+   - 🌱 I’m currently learning DSA 
+   - 📈 Training in DATA SCIENCE 
+   - 👨 solving leetcode problems in my Freetime
+
+
+<div id="text" align="center">
+  
+  # Languages and Tools 🛠️
+
+</div>
+<div id="media" align="center">
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="C" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/>
   
 </div>
+
+
+
+
+
+
