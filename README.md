@@ -35,7 +35,7 @@
    - 👀 I’m interested in learning
    - 🌱 I’m currently learning DSA 
    - 📈 Training in DATA SCIENCE 
-   - 👨 solving leetcode problems in my Freetime
+   - 👨 solving [LEETCODE](https://leetcode.com/aniruddhverma16) problems in my Freetime
 
 
 <div id="text" align="center">
