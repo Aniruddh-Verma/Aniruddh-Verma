@@ -53,6 +53,23 @@
   
 </div>
 
+<div id="text" align="center">
+  
+  # My Stats 🔥
+
+</div>
+<div id="text" align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aniruddh-Verma&theme=python-dark&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aniruddh-Verma&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=5)](https://github.com/anuraghazra/github-readme-stats)
+
+  
+</div>
+
+
+
+
+
 
 
 
