@@ -63,7 +63,7 @@
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Aniruddh-Verma&theme=python-dark&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 ![Aniruddh GitHub stats](https://github-readme-stats.vercel.app/api?username=Aniruddh-Verma&show_icons=true&theme=dark)
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/Aniruddh-Verma/Aniruddh-Verma/blob/main/devcard.svg" width="400" alt="Anirudh Verma's DevCard"/></a>
+<a href="https://app.daily.dev/shadoe1607"><img src="https://github.com/Aniruddh-Verma/Aniruddh-Verma/blob/main/devcard.svg" width="400" alt="Anirudh Verma's DevCard"/></a>
 
   
 </div>
