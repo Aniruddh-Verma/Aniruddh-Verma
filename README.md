@@ -34,7 +34,7 @@
 
    - 👀 I’m interested in learning
    - 🌱 I’m currently learning DSA 
-   - 📈 Training in DATA SCIENCE 
+   - 📈 Aspiring Full Stack Developer/Data Engineer 
    - 👨 solving [LEETCODE](https://leetcode.com/aniruddhverma16) problems in my Freetime
 
 
